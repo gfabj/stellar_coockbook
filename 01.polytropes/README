@@ -1,0 +1,5 @@
+We suggest that you leave the proposed directory structure intact to ensure a
+smooth workflow.
+
+Simply unzip the provided files in your lab-folder and you should be ready to
+go. In the terminal, simply execute 'unzip <lab-zip-file.zip>'.
